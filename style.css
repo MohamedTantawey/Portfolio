@@ -160,7 +160,7 @@ span {
     color: var(--main-color);
     margin: 3rem 1.5rem 3rem 0;
     transition: 0.3s ease-in-out;
-    position: relative; /* Needed for positioning the tooltip */
+    position: relative; 
 }
 
 .social-icons a:hover {
@@ -258,6 +258,8 @@ span {
     display: flex;
     position: relative;
     flex-wrap: wrap;
+    letter-spacing: 2px;
+    line-height: 1.5px;
 }
 
 .timeline-items::before {
@@ -420,8 +422,8 @@ span {
 }
 
 .about-img img {
-    width: 250px; /* Adjust image width as needed */
-    height: auto; /* Maintain aspect ratio */
+    width: 250px;
+    height: auto; 
     border-radius: 50%;
     box-shadow: 0 0 25px var(--main-color);
     cursor: pointer;
