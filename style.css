@@ -200,7 +200,7 @@ span {
     letter-spacing: 0.1rem;
     font-weight: 600;
     border-radius: 4ren;
-    color: black;
+    color: rgb(0, 0, 0);
     border: 2px solid transparent;
     transition: 0.3s ease-in-out;
     cursor: pointer;
