@@ -1,4 +1,4 @@
-const texts = ["Frontend Designer.", "Web Designer.", "UI/UX Designer.", "Web Developer.", "Graphic Designer."];
+const texts = ["Front-end Developer.", "UI/UX Designer.", "Graphic Designer."];
 let currentIndex = 0;
 const dynamicText = document.getElementById("constant-text");
 
